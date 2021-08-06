@@ -26,10 +26,6 @@ We used python packages like open-cv for image manipulation and pillow for conve
 
 ***•The main advantage of this prescription is : The patient will get prescription in pdf format and there is no chance of wrapping/burning/loss/spoilation of prescription
 
-**application
-
-**prescription
-
 **TECHNOLOGIES :
 
 The project voice prescription is mainly based on internet . ⇒ The Technologies that are used for the project are **Python programming : Speech Recognition.(pyaudio and speech Recognition) Prescription Generation in pdf format.(pilow) Mailing the pdf.(SMTPlib)
